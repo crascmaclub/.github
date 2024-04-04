@@ -1,4 +1,4 @@
-## Hi there 👋
+# Welcome to CMA Robotics and STEAM Club👋
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/crascmaclub/count.svg" />
